@@ -1,5 +1,5 @@
 [[redirects]]
   from = "*"
-  to = "https://timesinternet.in/"
+  to = "https://timesinternet.in/*"
   status = 301
   force = true
