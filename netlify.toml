@@ -1,5 +1,6 @@
 [[redirects]]
   from = "*"
   to = "https://timesinternet.in/"
-  status = 301
+  status = 200
   force = true
+  headers = {X-From = "Netlify"}
