@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "*"
-  to = "https://timesinternet.in/"
+  from = "/*"
+  to = "https://timesinternet.in/:splat"
   status = 301
   force = true
