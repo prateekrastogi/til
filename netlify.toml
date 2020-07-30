@@ -2,4 +2,3 @@
   from = "*"
   to = "https://timesinternet.in/"
   status = 200
-  force = true
